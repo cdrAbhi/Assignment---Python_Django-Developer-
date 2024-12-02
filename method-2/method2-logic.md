@@ -10,7 +10,7 @@ Logic Notes for mthod-2
 
 2. Input:  
 ===============
-   -A list `inputs` containing binary strings.
+   - A list `inputs` containing binary strings.
 
 ---
 
