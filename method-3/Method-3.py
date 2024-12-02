@@ -45,5 +45,4 @@ l= ['0010', '10000000', '001001101111111', '111101111111111', '','101001', '1010
 '11111111111111111111111111111111111111110111111111111111111111111111111111111111111111111111111111', '101001010', '111101110111', '100000', '000000', '011111', '111111']
     
 result=is_position_danagerous(l)
-print(result)
-# [print(val) for val in result]
+[print(val) for val in result]   #Using a List Comprehension print each string in new line
