@@ -3,8 +3,8 @@ Logic Notes for mthod-2
 ====================================
 
 1. Purpose:  
-=================
-Evaluate a list of binary strings to determine if they contain a "dangerous position" — defined as 7 consecutive `0`s or 7 consecutive `1`s.
+===========
+- Evaluate a list of binary strings to determine if they contain a "dangerous position" — defined as 7 consecutive `0`s or 7 consecutive `1`s.
 
 ---
 
