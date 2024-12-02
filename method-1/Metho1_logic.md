@@ -1,0 +1,58 @@
+Logic Notes for Method-1
+=========================
+
+1. Purpose: 
+=========== 
+   Check if a binary string contains a "dangerous position" — defined as a continuous sequence of 7 consecutive `0`s or 7 consecutive `1`s.
+
+---
+
+2. Input: 
+========== 
+   A list `l` containing binary strings.
+
+---
+ 
+3. Output Example:
+======================
+For the provided input, the output is a print result for each input on new lines
+Eg.
+YES
+NO
+YES
+YES-
+
+4. Logic:
+==========
+   - Case 1:  
+   ----------
+     If the string is empty, return `"No"`.
+
+   - Case 2:
+   -----------  
+     If the string has exactly 7 characters:
+     - Check if the string is either `"0000000"` or `"1111111"`.
+     - Append `"Yes"` if true, otherwise `"No"`.
+
+   - Case 3: 
+   ---------- 
+     If the string has more than 7 characters:
+     - Check if the string contains `"0000000"` or `"1111111"` as a substring.
+     - Append `"Yes"` if found, otherwise `"No"`.
+
+---
+
+5. Edge Cases:
+================
+   - Empty strings → Return `"No"`.
+   - Strings shorter than 7 → Return `"No"`.
+   - Strings exactly 7 characters → Directly compare with `"0000000"` or `"1111111"`.
+   - Strings longer than 7 → Check for substrings `"0000000"` or `"1111111"`.
+
+---
+
+6. Function Behavior:
+=====================
+   - Loops through the list of strings.
+   - Evaluates each string using the above logic.
+   - Returns a list containing the results (`"Yes"` or `"No"`) for all strings.
