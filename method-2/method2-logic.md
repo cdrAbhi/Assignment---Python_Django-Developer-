@@ -16,7 +16,7 @@ Logic Notes for mthod-2
 
 3. Output: 
 =============== 
-   -A list `result` where each entry is `"Yes"` or `"No"`, indicating whether the corresponding binary string contains a "dangerous position."
+   - A list `result` where each entry is `"Yes"` or `"No"`, indicating whether the corresponding binary string contains a "dangerous position."
 
 ---
 
