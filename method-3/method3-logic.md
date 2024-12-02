@@ -3,18 +3,18 @@ Logic Notes for method-3
 
 1. Purpose:
 ===========  
-   Check if each binary string in a list contains a "dangerous position" — 7 consecutive `0`s or 7 consecutive `1`s.
+   - Check if each binary string in a list contains a "dangerous position" — 7 consecutive `0`s or 7 consecutive `1`s.
 
 
 
 2. Input:  
 ===========
-   A list `l` containing binary strings.
+   - A list `l` containing binary strings.
 
 
 3. Output Example:
 ======================
-   For the provided input, the output is a print result for each input on new lines "Yes" or "No"
+   - For the provided input, the output is a print result for each input on new lines "Yes" or "No"
 Eg.
 YES
 NO
