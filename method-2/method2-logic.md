@@ -1,7 +1,7 @@
 ```markdown
 # is_position_dangerous
 
-## Overview
+Overview
 
 This function evaluates a list of binary strings to determine if they contain a "dangerous position" — defined as 7 consecutive `0`s or 7 consecutive `1`s.
 
