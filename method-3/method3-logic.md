@@ -8,7 +8,7 @@ Logic Notes for method-3
 
 
 2. Input:  
-===========
+===========*
    - A list `l` containing binary strings.
 
 
