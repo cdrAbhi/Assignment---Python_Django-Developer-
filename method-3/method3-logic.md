@@ -13,7 +13,7 @@ Logic Notes for method-3
 
 
 3. Output Example:
-======================
+==================*
    - For the provided input, the output is a print result for each input on new lines "Yes" or "No"
 Eg.
 YES
