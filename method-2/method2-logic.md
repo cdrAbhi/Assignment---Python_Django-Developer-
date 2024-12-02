@@ -10,13 +10,13 @@ Logic Notes for mthod-2
 
 2. Input:  
 ===============
-   A list `inputs` containing binary strings.
+   -A list `inputs` containing binary strings.
 
 ---
 
 3. Output: 
 =============== 
-   A list `result` where each entry is `"Yes"` or `"No"`, indicating whether the corresponding binary string contains a "dangerous position."
+   -A list `result` where each entry is `"Yes"` or `"No"`, indicating whether the corresponding binary string contains a "dangerous position."
 
 ---
 
@@ -58,7 +58,7 @@ Logic Notes for mthod-2
 
 7. Output Example:
 ======================
-   For the provided input, the output is a print result for each input on new lines
+- For the provided input, the output is a print result for each input on new lines
 Eg.
 YES
 NO
