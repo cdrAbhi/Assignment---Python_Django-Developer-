@@ -40,3 +40,7 @@ result = is_position_danagerous(l)
 
 
 
+
+
+
+

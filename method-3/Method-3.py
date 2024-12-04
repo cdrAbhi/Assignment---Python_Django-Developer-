@@ -46,3 +46,5 @@ l= ['0010', '10000000', '001001101111111', '111101111111111', '','101001', '1010
     
 result=is_position_danagerous(l)
 [print(val) for val in result]   #Using a List Comprehension print each string in new line
+
+
